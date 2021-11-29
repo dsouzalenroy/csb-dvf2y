@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "https://dsouzalenroy.github.io/csb-dvf2y/static/css/main.e8a6f4fa.chunk.css",
+    "main.js": "https://dsouzalenroy.github.io/csb-dvf2y/static/js/main.8c921022.chunk.js",
+    "main.js.map": "https://dsouzalenroy.github.io/csb-dvf2y/static/js/main.8c921022.chunk.js.map",
+    "runtime-main.js": "https://dsouzalenroy.github.io/csb-dvf2y/static/js/runtime-main.fb2f826e.js",
+    "runtime-main.js.map": "https://dsouzalenroy.github.io/csb-dvf2y/static/js/runtime-main.fb2f826e.js.map",
+    "static/css/2.c6c5b1c4.chunk.css": "https://dsouzalenroy.github.io/csb-dvf2y/static/css/2.c6c5b1c4.chunk.css",
+    "static/js/2.6fedeb71.chunk.js": "https://dsouzalenroy.github.io/csb-dvf2y/static/js/2.6fedeb71.chunk.js",
+    "static/js/2.6fedeb71.chunk.js.map": "https://dsouzalenroy.github.io/csb-dvf2y/static/js/2.6fedeb71.chunk.js.map",
+    "index.html": "https://dsouzalenroy.github.io/csb-dvf2y/index.html",
+    "static/css/2.c6c5b1c4.chunk.css.map": "https://dsouzalenroy.github.io/csb-dvf2y/static/css/2.c6c5b1c4.chunk.css.map",
+    "static/css/main.e8a6f4fa.chunk.css.map": "https://dsouzalenroy.github.io/csb-dvf2y/static/css/main.e8a6f4fa.chunk.css.map",
+    "static/js/2.6fedeb71.chunk.js.LICENSE.txt": "https://dsouzalenroy.github.io/csb-dvf2y/static/js/2.6fedeb71.chunk.js.LICENSE.txt",
+    "static/media/ClockSymbol.9190571f.svg": "https://dsouzalenroy.github.io/csb-dvf2y/static/media/ClockSymbol.9190571f.svg",
+    "static/media/chooseLocation.css": "https://dsouzalenroy.github.io/csb-dvf2y/static/media/ThinkSafeDriveSafe.93fe9d68.png",
+    "static/media/backArrow.2d95a825.svg": "https://dsouzalenroy.github.io/csb-dvf2y/static/media/backArrow.2d95a825.svg",
+    "static/media/calenderSymbol.437114c7.svg": "https://dsouzalenroy.github.io/csb-dvf2y/static/media/calenderSymbol.437114c7.svg",
+    "static/media/femaleTrainer.f46b9971.svg": "https://dsouzalenroy.github.io/csb-dvf2y/static/media/femaleTrainer.f46b9971.svg",
+    "static/media/location.fe351652.svg": "https://dsouzalenroy.github.io/csb-dvf2y/static/media/location.fe351652.svg",
+    "static/media/maleTrainer.0fe1f8a8.svg": "https://dsouzalenroy.github.io/csb-dvf2y/static/media/maleTrainer.0fe1f8a8.svg",
+    "static/media/nextArrow.8cc8d5e8.svg": "https://dsouzalenroy.github.io/csb-dvf2y/static/media/nextArrow.8cc8d5e8.svg",
+    "static/media/oneHourLessonType.b368a178.svg": "https://dsouzalenroy.github.io/csb-dvf2y/static/media/oneHourLessonType.b368a178.svg",
+    "static/media/packageLessons.0015d405.svg": "https://dsouzalenroy.github.io/csb-dvf2y/static/media/packageLessons.0015d405.svg",
+    "static/media/singleLessonsType.d103f26d.svg": "https://dsouzalenroy.github.io/csb-dvf2y/static/media/singleLessonsType.d103f26d.svg",
+    "static/media/sixHourDuration.3e54119c.svg": "https://dsouzalenroy.github.io/csb-dvf2y/static/media/sixHourDuration.3e54119c.svg",
+    "static/media/tenHourDuration.951b4da5.svg": "https://dsouzalenroy.github.io/csb-dvf2y/static/media/tenHourDuration.951b4da5.svg",
+    "static/media/twoHourLessonType.3578632a.svg": "https://dsouzalenroy.github.io/csb-dvf2y/static/media/twoHourLessonType.3578632a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb2f826e.js",
+    "static/css/2.c6c5b1c4.chunk.css",
+    "static/js/2.6fedeb71.chunk.js",
+    "static/css/main.e8a6f4fa.chunk.css",
+    "static/js/main.8c921022.chunk.js"
+  ]
+}
